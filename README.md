@@ -10,9 +10,10 @@ I'm Amandeep Singh, but you can call me Deep! Welcome to my Github!
   - Python
   - React.js
 - ✔️ Future Goals
-  - [ ] Learn more Frameworks
   - [ ] Get a job
   - [ ] Work on a project idea I have
+  - [ ] Learn more Frameworks
+  - [ ] Learn NoSQL
 
 <!--
 **SinghSanity/SinghSanity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
