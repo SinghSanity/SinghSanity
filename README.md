@@ -4,7 +4,7 @@
 
 I'm Amandeep Singh, but you can call me Deep! Welcome to my Github!
 
-- 🔭 I’m currently working on `school work` and leading a SIG (Special Interest Group) for NJIT's ACM Association
+- 🔭 I’m currently working on personal projects, and looking for work! If you or someone you know is hiring, please send them my way!
 - 🌱 I’m currently learning `Node.js` and more `React.js`
 - 💻 Favorite Languages / Frameworks
   - Python
