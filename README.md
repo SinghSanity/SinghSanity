@@ -10,8 +10,8 @@ I'm Amandeep Singh, but you can call me Deep! Welcome to my Github!
   - Python
   - React.js
 - ✔️ Future Goals
-  - [ ] Get a job
-  - [ ] Work on a project idea I have
+  - [ ] Get better at coding
+  - [ ] Write tests
   - [ ] Learn more Frameworks
   - [ ] Learn NoSQL
 
