@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Amandeep Singh, but you can call me Deep! Welcome to my Github!
+I'm Deep! Welcome to my Github!
 
 - 🔭 I’m currently working as a Consultant at Global Atlantic Financial Group
 - 🌱 I’m currently learning `Django` and improving my `Python` and `SQL`
