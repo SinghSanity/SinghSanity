@@ -4,15 +4,15 @@
 
 I'm Deep! Welcome to my Github!
 
-- 🔭 I’m currently working as a Consultant at Global Atlantic Financial Group
-- 🌱 I’m currently learning `Django` and improving my `Python` and `SQL`
+- 🔭 I’m currently working as a Associate at KKR (Formerly Global Atlantic Financial Group)
+- 🌱 Improving my `Python` and `SQL`
 - 💻 Favorite Languages / Frameworks
   - Python
   - React.js
 - ✔️ Future Goals
-  - [ ] Get better at coding
-  - [ ] Write tests
-  - [ ] Learn more Frameworks
+  - [ ] My own website!
+  - [ ] More Projects!
+  - [ ] Infra!
 
 <!--
 **SinghSanity/SinghSanity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
