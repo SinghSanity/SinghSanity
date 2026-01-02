@@ -29,12 +29,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Github Statistics
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SinghSanity&show_icons=true&theme=radical">
-    <!-- DOCS: https://github.com/anuraghazra/github-readme-stats -->
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghSanity&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=radical">
-</p>
